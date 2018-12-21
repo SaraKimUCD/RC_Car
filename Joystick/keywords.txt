@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Joystick
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Joystick KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#####################################
+
+read  KEYWORD2
+get_x KEYWORD2
+get_y KEYWORD2
+get_button  KEYWORD2
+print KEYWORD2
+println  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
